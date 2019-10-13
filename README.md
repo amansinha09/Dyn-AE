@@ -28,3 +28,6 @@
 
 ### Instruction 
 *Add explicitly empty "results" folder with subfolder "flickr"
+
+### Update
+This code was used for the work in " Unsupervised Approach for Monitoring Satire on Social Media" - which is accepted at 11th meeting of Forum for Information Retrieval Evaluation 2019
